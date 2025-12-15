@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Mijn profiel</title>
+</head>
+<body>
+
+    <h1>Mijn Profielpagina</h1>
+    <p>Hier lees je wat meer over mij.</p>
+
+    <h1> Profiel</h1>
+    <p>Economie en maatschappij</p>
+
+    <h2>Over mij</h2>
+    <ul>
+        <li>Naam: Loek</li>
+        <li>Leeftijd: 15 jaar oud</li>
+        <li>Hobby’s: Sportschool en gamen</li>
+    </ul>
+
+    <h2>Navigatie</h2>
+    <ul>
+        <li><a href="Loek.html">Terug naar de startpagina</a></li>
+    </ul>
+
+</body>
+</html>

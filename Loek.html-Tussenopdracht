@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Startpagina</title>
+</head>
+<b>
+
+    <h1>Welkom op mijn website</h1>
+    <p>Hier vindt je waar ik les heb</p>
+
+    <h2>Navigatie</h2>
+    <ul>
+        <li><a href="profiel.html">Ga naar mijn profielpagina</a></li>
+    </ul>
+
+    <h2>Afbeelding</h2>
+    <img src="/tauri/C/Users/Gebruiker/Downloads/ee19641d-964c-46dc-a288-9b49239af9a6.jpg" alt="Mijn foto" width="250"</Img>
+
+    <h2>welke vakken en waar:</h2>
+    <table border="1" cellpadding="6">
+        <tr>
+            <th>Vak</th>
+            <th>Lokaal</th>
+         <tr> <td>Informatica</td><td>215</td></tr>
+
+            <tr> <td>Wiskunde</td><td>236</td></tr>
+
+            <tr><td>Geschiedenis</td><td>141</td></tr>
+
+            <tr><td>Engels</td><td>125</td></tr>
+
+            <tr><td>Nederlands</td><td>111</td></tr>
+
+            <tr><td>Economie</td><td>029</td></tr>
+
+            <tr><td>Aardrijkskunde</td><td>140</td></tr>
+
+            <tr><td>Maatschappijleer</td><td>029</td></tr>
+
+            <tr><td>Levensbeschouwing</td><td>201</td></tr><tr><td>Lichaamelijk opvoeding</td><td>sgm2</td></tr>
+
+            <tr><td>Haco</td><td>215</td></tr><tr><td>Ckv</td><td>292</td></tr>
+
+            <tr><td>Litaratuur</td><td>029</td></tr>
+
+        </table>
+        </tr>
+    </table>
+
+</body>
+</html>
